@@ -1,0 +1,2 @@
+4;2;2023-05-24;1230;0;1230;1|Ali Suleman|vvlm3I%}|ali.suleman.rajpar@gmail.com;;1|Mix Pulses|350|450|2|900---15|Dollar Pen|160|165|2|330---
+5;2;2023-05-24;800;424;376;1|Ali Suleman|vvlm3I%}|ali.suleman.rajpar@gmail.com;CC500|true|3.0|Promo Code---55s|true|50.0|Special Only---;1|Mix Pulses|350|450|1|450---13|Eyeliner|150|350|1|350---

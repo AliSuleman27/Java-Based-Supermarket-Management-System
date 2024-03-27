@@ -1,0 +1,61 @@
+1 2023
+5 2023
+24
+31
+false
+Data captured from console:
+1 2023
+4 2023
+24
+30
+true
+Data captured from console:
+1 2023
+3 2023
+24
+31
+true
+Data captured from console:
+1 2023
+2 2023
+24
+28
+true
+Ending Inventory previous Month : 0
+Total Inventory of this Month 2 is: 0
+Total Stock Value: 0
+Total Sold Stock (Cost Price): 0
+Total Sold Stock(Selling Price)0
+Total Sold Stock(Selling Price Discount Applied: ): 0
+You are in Loss
+This Month Closing Inventory: 0
+
+Data written to console.txt file.
+Ending Inventory previous Month : 0
+Total Inventory of this Month 3 is: 0
+Total Stock Value: 0
+Total Sold Stock (Cost Price): 0
+Total Sold Stock(Selling Price)0
+Total Sold Stock(Selling Price Discount Applied: ): 0
+You are in Loss
+This Month Closing Inventory: 0
+
+Data written to console.txt file.
+Ending Inventory previous Month : 0
+Total Inventory of this Month 4 is: 0
+Total Stock Value: 0
+Total Sold Stock (Cost Price): 0
+Total Sold Stock(Selling Price)0
+Total Sold Stock(Selling Price Discount Applied: ): 0
+You are in Loss
+This Month Closing Inventory: 0
+
+Data written to console.txt file.
+Ending Inventory previous Month : 0
+Total Inventory of this Month 5 is: 108610
+Total Stock Value: 108610
+Total Sold Stock (Cost Price): 3020
+Total Sold Stock(Selling Price)4320
+Total Sold Stock(Selling Price Discount Applied: ): 3896
+You are in profit
+This Month Closing Inventory: 112930

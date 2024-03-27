@@ -1,0 +1,15 @@
+1;beauty
+2;hair
+3;grocery
+4;poultery
+5;MakeUp
+6;Clothes
+7;Abaya
+8;Watches
+9;parfumes
+10;Fashion
+11;parfume
+12;Gaming
+13;Tech
+14;Books
+15;Stationary Items

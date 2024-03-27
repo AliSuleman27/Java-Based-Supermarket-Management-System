@@ -1,0 +1,10 @@
+1;3;2023-05-24;820;0;820;Walking Sale;;13|Eyeliner|150|350|1|350---7|LipStick|100|150|1|150---16|Shaving Foam|300|320|1|320---;550
+2;2;2023-05-24;800;0;800;Walking Sale;;13|Eyeliner|150|350|1|350---1|Mix Pulses|350|450|1|450---;500
+3;2;2023-05-24;670;0;670;Walking Sale;;16|Shaving Foam|300|320|1|320---13|Eyeliner|150|350|1|350---;450
+4;2;2023-05-24;1230;0;1230;1|Ali Suleman|vvlm3I%}|ali.suleman.rajpar@gmail.com;;1|Mix Pulses|350|450|2|900---15|Dollar Pen|160|165|2|330---;1020
+5;2;2023-05-24;800;424;376;1|Ali Suleman|vvlm3I%}|ali.suleman.rajpar@gmail.com;CC500|true|3.0|Promo Code---55s|true|50.0|Special Only---;1|Mix Pulses|350|450|1|450---13|Eyeliner|150|350|1|350---;500
+6;3;2023-05-26;665;352;313;8|Unaiza|123|csciy8q93q39;CC500|true|3.0|Promo Code---55s|true|50.0|Special Only---;7|LipStick|100|150|1|150---13|Eyeliner|150|350|1|350---15|Dollar Pen|160|165|1|165---;410
+7;2;2023-05-26;500;0;500;Walking Sale;;7|LipStick|100|150|1|150---13|Eyeliner|150|350|1|350---;250
+8;2;2023-05-26;500;0;500;Walking Sale;;13|Eyeliner|150|350|1|350---7|LipStick|100|150|1|150---;250
+9;2;2023-05-26;375;0;375;8|Unaiza|123|csciy8q93q39;;21|Believe Me |15|30|5|150---20|Reminders Of Him|10|25|9|225---;165
+10;3;2023-05-26;665;166;499;Walking Sale;Unaiza|true|25.0|Both---;15|Dollar Pen|160|165|1|165---13|Eyeliner|150|350|1|350---7|LipStick|100|150|1|150---;410

@@ -1,0 +1,18 @@
+11;purse;C:\Users\3tee\Desktop\download (1).jpg
+6;Lemon Max Bar;C:\Users\3tee\Documents\Picture2.png
+3;Denim Jeans ;C:\Users\3tee\Desktop\denim.jpg
+5;Broom;C:\Users\3tee\Desktop\Broom.jpg
+1;Mix Pulses;C:\Users\3tee\Desktop\download.jpg
+8;Garnier Men Hair Color;C:\Users\3tee\Desktop\Garnier.jpg
+2;Shampoo;C:\Users\3tee\Desktop\images.jpg
+13;Eyeliner;C:\Users\3tee\Desktop\Eyeliner.jpg
+7;LipStick;C:\Users\3tee\Desktop\download (2).jpg
+12;Gold Chain;C:\Users\3tee\Desktop\download (3).jpg
+16;Shaving Foam;C:\Users\3tee\Desktop\download (5).jpg
+15;Dollar Pen;C:\Users\3tee\Desktop\download (4).jpg
+14;Dollar Marker;C:\Users\3tee\Desktop\download.png
+17;Playstation 5;C:\Users\3tee\Desktop\download (1).jpg
+17;Playstation 5;C:\Users\3tee\Desktop\download (1).jpg
+18;Garneir Face wash 250ml;C:\Users\3tee\Desktop\Garnier.jpg
+21;Believe Me ;C:\Users\3tee\Desktop\u1.jpg
+20;Reminders Of Him;C:\Users\3tee\Desktop\u2.jpg

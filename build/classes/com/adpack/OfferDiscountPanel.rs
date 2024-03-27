@@ -1,0 +1,2 @@
+adpack.OfferDiscountPanel$1
+adpack.OfferDiscountPanel

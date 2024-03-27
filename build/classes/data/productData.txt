@@ -1,0 +1,20 @@
+1;Mix Pulses;1KG;grocery;350;450;true
+2;Shampoo;hair;Vatika;900;1350;true
+3;Denim Jeans ;(30 Waist);Clothes;2950;3950;true
+5;Broom;ULPK;grocery;190;250;false
+6;Lemon Max Bar;(Long Size);grocery;200;260;false
+7;LipStick;Iconic;hair;100;150;true
+8;Garnier Men Hair Color;Small Tube;hair;650;750;true
+9;EyeLashes;Small Size (Black);beauty;150;350;false
+10;Versace Eroc;120ml;beauty;2000;2500;false
+11;Purse;Leather;Fashion;12500;14000;true
+12;Gold Chain;Gold 12g;Fashion;50000;90000;true
+13;Eyeliner;10 Grams;beauty;150;350;true
+14;Dollar Marker;10 Grams;Stationary Items;15;20;true
+15;Dollar Pen;10 gm;Stationary Items;160;165;true
+16;Shaving Foam;100 gm;hair;300;320;true
+17;Playstation 5;5;Gaming;25000;30000;true
+18;Garneir Face wash 250ml;men face wash 250ml;beauty;550;549;true
+19;Airpods;20gm;Gaming;2000;3000;true
+20;Reminders Of Him;Romance;Books;10;25;true
+21;Believe Me ;Romance;Books;15;30;true

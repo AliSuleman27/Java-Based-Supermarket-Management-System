@@ -1,0 +1,9 @@
+CustomerTabe$MonthlySales$1
+CustomerTabe$MonthlySales
+CustomerTabe$OverallSales
+CustomerTabe$ViewAllCustomers
+CustomerTabe$CustomerDetails$2
+CustomerTabe$CustomerDetails
+CustomerTabe$DailySales
+CustomerTabe
+CustomerTabe$CustomerDetails$1

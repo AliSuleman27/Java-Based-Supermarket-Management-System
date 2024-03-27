@@ -1,0 +1,8 @@
+1;Mix Pulses;1KG;grocery;350;450;true;96;35000
+8;Garnier Men Hair Color;Small Tube;hair;650;750;true;10;6500
+7;LipStick;Iconic;hair;100;150;true;0;500
+13;Eyeliner;10 Grams;beauty;150;350;true;8;2400
+15;Dollar Pen;10 gm;Stationary Items;160;165;true;2;480
+16;Shaving Foam;100 gm;hair;300;320;true;0;600
+21;Believe Me ;Romance;Books;15;30;true;1695;25500
+20;Reminders Of Him;Romance;Books;10;25;true;1491;15000

@@ -1,0 +1,11 @@
+1;Increased;1;Mix Pulses;1KG;grocery;350;450;true;150;52500;2023-05-24
+2;Increased;7;LipStick;Iconic;hair;100;150;true;100;10000;2023-05-24
+3;Increased;14;Dollar Marker;10 Grams;beauty;15;20;true;10;150;2023-05-24
+4;Increased;1;Mix Pulses;1KG;grocery;350;450;true;100;35000;2023-05-24
+5;Increased;8;Garnier Men Hair Color;Small Tube;hair;650;750;true;10;6500;2023-05-24
+6;Increased;7;LipStick;Iconic;hair;100;150;true;5;500;2023-05-24
+7;Increased;13;Eyeliner;10 Grams;beauty;150;350;true;16;2400;2023-05-24
+8;Increased;15;Dollar Pen;10 gm;MakeUp;160;165;true;6;960;2023-05-24
+9;Increased;16;Shaving Foam;100 gm;hair;300;320;true;2;600;2023-05-24
+10;Increased;21;Believe Me ;Romance;Books;15;30;true;1700;25500;2023-05-26
+11;Increased;20;Reminders Of Him;Romance;Books;10;25;true;1500;15000;2023-05-26

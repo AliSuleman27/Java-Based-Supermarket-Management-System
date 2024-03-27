@@ -1,0 +1,6 @@
+adpack.PrintInventoryHistory$5
+adpack.PrintInventoryHistory$4
+adpack.PrintInventoryHistory$3
+adpack.PrintInventoryHistory$2
+adpack.PrintInventoryHistory$1
+adpack.PrintInventoryHistory

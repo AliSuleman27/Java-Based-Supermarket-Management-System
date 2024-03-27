@@ -1,0 +1,6 @@
+CategoreyManager
+CategoreyManager$1
+CategoreyManager$5
+CategoreyManager$4
+CategoreyManager$3
+CategoreyManager$2
